@@ -54,7 +54,7 @@ A full-stack MERN application designed for efficient task management with secure
 
 
 ### **Backend Setup**
- Navigate to the server directory:
+Navigate to the server directory:
    ```bash
    cd server
    npm install
@@ -67,6 +67,9 @@ Navigate to the client directory:
 cd client
 npm install
 npm run dev
+
+
+---
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or features you'd like to add.
